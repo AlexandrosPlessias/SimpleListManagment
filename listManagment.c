@@ -1,6 +1,3 @@
-// Plessias Alexandros   , A.M.: 2025201100068 //
-// Papadopoulou Theodwra , A.M.: 2025201100064 //
-
 #include <stdio.h>  /*Call the library Standard Input and Output (for the use of basic functions such as printf & scanf).*/
 #include <stdlib.h> /*We call on the Standard General Utilities Library (for use of atoi & atof).*/
 #include <math.h>   /*We call the library mathematical (to use the functions sqrt & pow).*/
